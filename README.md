@@ -1,7 +1,7 @@
-## Hi there 👋
+
 <div align="center">
 
-  <img src="https://github.com/Albamunru/Albamunru/blob/main/Banner.png" alt="Banner" style="width:100%; max-height:300px;">
+  <img src="https://github.com/Albamunru/Albamunru/blob/main/Banner.png" alt="Banner" style="width:100%; max-height:150px;">
 <h2>  Bienvenid@s <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
