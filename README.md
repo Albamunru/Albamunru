@@ -1,11 +1,9 @@
 
 <div align="center">
 
-  <img src="https://github.com/Albamunru/Albamunru/blob/main/Banner.png" alt="Banner" style="width:100%; max-height:150px;">
+  <img src="https://github.com/Albamunru/Albamunru/blob/main/Banner.png" alt="Banner" style="width:100%; max-height:100px;">
 <h2>  Bienvenid@s <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
-
-AQUI QUIERO EL BANNER CON UNA IMAGEN 
 
 <h2> Sobre mi: </h2>
 :dart: Me llamo Alba<br>
