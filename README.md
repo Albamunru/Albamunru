@@ -7,5 +7,5 @@
 
 <h2> Sobre mi: </h2>
 :dart: Me llamo Alba<br>
-:email: Podeis contactar conmigo en : <a href="alba.munoz.rueda95@gmail.com">alba.munoz.rueda95@gmail.com</a><br>
+:email: Podéis contactar conmigo en : <a href="alba.munoz.rueda95@gmail.com">alba.munoz.rueda95@gmail.com</a><br>
 :pill: Software Developer 
