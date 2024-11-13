@@ -1,15 +1,16 @@
 
 <div align="center">
 
-  <h2>  Bienvenid@s al gitHub <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+  <h2>  Bienvenid@s a mi gitHub <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
   <img src="https://github.com/Albamunru/Albamunru/blob/main/Banner.png" alt="Banner" style="width:100%; max-height:100px;">
 
 </div>
 
 <h2> Sobre mi: </h2>
 :dart: Mi nombre es Alba<br>
-:email: Podéis contactar conmigo en : <a href="alba.munoz.rueda95@gmail.com">alba.munoz.rueda95@gmail.com</a><br>
 :pill: Soy Técnico Superior En Desarrollo de Aplicaciones Multiplataforma (DAM) <br>
+:email: Podéis contactar conmigo en : <a href="alba.munoz.rueda95@gmail.com">alba.munoz.rueda95@gmail.com</a><br>
+
 
 <div id="badges">
   <br>
@@ -19,6 +20,7 @@
 </div>
 
 <div align="center">
-  <h2> Tecnologías: </h2>
+  <h2> Tecnologías :computer: : </h2>
 </div>
+
 
