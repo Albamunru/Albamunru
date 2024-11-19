@@ -19,35 +19,36 @@
   </a>
 </div>
 
-<div align="center">
+<div>
   <h2> Tecnologías :computer: : </h2>
 </div>
 
-<div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java Icon" width="50">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python Icon" width="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="Mysql Icon" width="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php Icon" width="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C# Icon" width="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html Icon" width="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html Icon" width="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="js Icon" width="50">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="angular Icon" width="50">
-   
-   
- 
-  
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center; justify-items: center; align-items: center;">
+    <div>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java Icon" width="50" style="border-radius: 8px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
+        <p style="margin: 5px 0 0; font-size: 12px;">Java</p>
+    </div>
+    <div>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python Icon" width="50" style="border-radius: 8px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
+        <p style="margin: 5px 0 0; font-size: 12px;">Python</p>
+    </div>
+    <div>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL Icon" width="50" style="border-radius: 8px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
+        <p style="margin: 5px 0 0; font-size: 12px;">MySQL</p>
+    </div>
+    <div>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP Icon" width="50" style="border-radius: 8px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
+        <p style="margin: 5px 0 0; font-size: 12px;">PHP</p>
+    </div>
+    <div>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB Icon" width="50" style="border-radius: 8px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
+        <p style="margin: 5px 0 0; font-size: 12px;">MongoDB</p>
+    </div>
+    <div>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C# Icon" width="50" style="border-radius: 8px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1);">
+        <p style="margin: 5px 0 0; font-size: 12px;">C#</p>
+    </div>
 </div>
-
-
-
-
-
-
-
-
-
-
 
 
 
